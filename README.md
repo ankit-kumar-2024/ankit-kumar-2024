@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Full Stack Developer** who transforms ideas into complete digital products—from database design to polished user interfaces. I specialize in the **MERN stack** (MongoDB, Express.js, React, Node.js) and **React Native** for cross-platform mobile applications.
 
