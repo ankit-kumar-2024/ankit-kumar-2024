@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧑‍💻 Ankit Kumar
+# Ankit Kumar
 
 ### Full Stack Developer | MERN Stack | React Native
 
@@ -15,14 +15,7 @@ I'm a **Full Stack Developer** who transforms ideas into complete digital produc
 On the frontend, I craft responsive, user-friendly interfaces using **React, Tailwind CSS, and TypeScript**. Every component I build is designed with accessibility, performance, and clean code in mind.
 
 On the backend, I design scalable **REST APIs**, implement secure authentication with **JWT**, and architect **MongoDB** databases that grow with your business. I containerize applications with **Docker** and deploy to **Render** and **MongoDB Atlas**—so you get a live, production-ready platform, not just a zip file.
-
-💡 **I don't just write code—I solve problems.**
-
-✨ **Pixel-perfect** — Responsive designs that shine on every device  
-⚡ **Scalable** — Architecture built to grow with your project  
-🤝 **Reliable** — Clear communication, delivered on time
-
-📌 **Currently open for freelance opportunities and full-time roles.**
+**Currently open for freelance opportunities and full-time roles.**
 
 ---
 
@@ -45,14 +38,5 @@ On the backend, I design scalable **REST APIs**, implement secure authentication
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ancet20016@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankit-kumar-2024)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/yourusername)
-
----
-
-## 🎯 Current Goals
-
-- 🌱 Build my reputation on freelancing platforms
-- 🚀 Complete and deliver client projects successfully
-- 💡 Contribute to open-source projects
-- 🤝 Collaborate with other developers and tech communities
 
 ---
