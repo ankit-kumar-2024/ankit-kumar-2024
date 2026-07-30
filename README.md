@@ -12,7 +12,7 @@
 
 I'm a **Full Stack Developer** who transforms ideas into complete digital products—from database design to polished user interfaces. I specialize in the **MERN stack** (MongoDB, Express.js, React, Node.js) and **React Native** for cross-platform mobile applications.
 
-On the frontend, I craft responsive, user-friendly interfaces using **React, Tailwind CSS, and TypeScript**. Every component I build is designed with accessibility, performance, and clean code in mind.
+On the frontend, I craft responsive, user-friendly interfaces using **React and Tailwind CSS**. Every component I build is designed with accessibility, performance, and clean code in mind.
 
 On the backend, I design scalable **REST APIs**, implement secure authentication with **JWT**, and architect **MongoDB** databases that grow with your business. I containerize applications with **Docker** and deploy to **Render** and **MongoDB Atlas**—so you get a live, production-ready platform, not just a zip file.
 **Currently open for freelance opportunities and full-time roles.**
